@@ -1,1 +1,1 @@
-# WordGrinder
+# WordGrinder installation with patches.
